@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against all seditious railers and slanderers whether civil or ecclesiastick of the Kings Majesty and his government, and against remonstrators and their adherents, and against all unlawfull convocation of His Majesties leidges.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22211</idno><idno type="EEBO-CITATION">10268701</idno>
+  <idno type="VID">204639</idno>
+  <idno type="EEBO-PROQUEST">2248505990</idno>
+  
+            <idno type="STC">Wing E2189</idno>
+            <idno type="OCLC">10268701</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204639)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against all seditious railers and slanderers whether civil or ecclesiastick of the Kings Majesty and his government, and against remonstrators and their adherents, and against all unlawfull convocation of His Majesties leidges.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by a society of stationers,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"At Edinburgh the 20th of September, 1660."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Political crimes and offenses --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:204639:1"/>
+            <pb facs="tcp:204639:2"/>
+            <head>A PROCLAMATION Against all Seditious Railers and Slanderers, whether Civil, or Ecclesiastick of the Kings Majesty and His Government; And <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainst <hi>Remonstrators</hi> and their Adherents, and against all unlawfull Con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocation of His <hi>MAJESTIES</hi> Leidges.</head>
+            <opener>
+               <dateline>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>Edinburgh</hi>
+                  <date>the 20<seg rend="sup">th</seg>. of <hi>September,</hi> 1660.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Committee of Estates presently conveened by His Majesties speciall Warrand and Authority; Laying seriously to heart the great Trust committed to them for carrying on, ordering, and using of all means which may tend to the securing of the Peace of this Kingdom, and maintaining and furthering His Majesties Power and Authority therein. Considering, that by many Acts of Par<g ref="char:EOLhyphen"/>liament, all Leiseing-makers, and tellers thereof, makers of evil Information, or engendering discord betwixt the KING and His People; All Reproachers, or Slanderers of His Majestie, Government, or Realms, depravers of His Laws, misconstruers of His Proceedings, medlers in the affaires of His Estate: As also, all hearers of any such Leisings, Calumnies or Slanders, by Word or Writ, and Concealers thereof, should be punished as seditious persons, Enemies to His Majestie▪ and the pain of Death to be execute upon them, as at length is contained in the 43. Act. of K. <hi>James</hi> 1. his 3. parl. The 83. <hi>Act</hi> of K. <hi>James</hi> Fifth his 6. parl. The 134 <hi>Act</hi> parl. 8. The 10. <hi>Act</hi> parl. 10. The 205 <hi>Act</hi> parl. 14. of K. <hi>James</hi> 6. And the 27 <hi>Act</hi> of the 2. parl. of His Sacred Majesties uniquhile dearest Father of blessed Memory, Which more particularly, in relation to any such Re<g ref="char:EOLhyphen"/>proaches, Lies, or Calumnies concerning the Kingdom of <hi>England,</hi> and His Majesties worthy Subjects therein, is expresly prohibite by the 9 <hi>Act</hi> of King <hi>James</hi> 6. his 20 parl. holden in <hi>Anno</hi> 1609. under the pain specified in the said <hi>Act.</hi> Likeas, all Convocation of His Majesties Leidges without His Majesties special Command, or expresse Licence, what ever Quality, Estate▪ or Function the Persons be of, Spirituall, or Temporall, is expresly prohibite by the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Act</hi> parl. 8. K▪ <hi>James</hi> 6▪ under the pains therein contained. As also, The <hi>Remonstrance</hi> presented to the Committee of Estates in <hi>Anno,</hi> 1650. Declared by Hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majestie and Parliament in <hi>July</hi> 16<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sediti<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Neverthelesse, and albeit it hath pleased the Almighty GOD of His wonderfull Goodnesse and Providence, happily to restore His Sacred Majesty to the peaceable Government of His Ancient Kingdoms, and all His Majesties Subjects to t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ir wonted Peace, Freedom, and Priviledge, which is (as it ought to be) a matter of great rejoycing to all good Christians and Loyal Subjects whatsoever, both at home and abroad: Yet the said Committeee of Estates, certainly knowing, and receiving dayly Information, that several of His Majesties Leidges and Subjects within this Kingdom, do contrary to the saids <hi>Acts</hi> of Parliament, Convocat, Conveen and Assemble themselves, without His Majesties special Command and Licence: And that there are several scandalous seditious Speeches uttered and Preached in Sermons, Declamations and otherwise, and several calumnious Pasquils, Libels, Ryms, and others Writs Devised, Vented, and Published to the reproach or slander of His Majesties Person, Estate, or Government: As also, That several His Majesties Subjects, do own, adhere to, avow, abate, or assist the foresaid <hi>Remonstrance,</hi> whereby His Majesties Loyal well-meaning Subjects may be drawn from their due Allegiance, and ensnared in such seditious Combinations and Meetings, and involved in their said Treasonable Plots and Practices, unlesse timeous remedy be provided. There<g ref="char:EOLhyphen"/>fore, The Committee of Estates, in His Majesties Name and Authority, Command and Charge, that no Subject, or Subjects within this Kingdom, of whatsoever Quality, Estate, or Function they be of, Spirituall, or Temporall, presume, or take upon hand, to Convocate, Conveen, or Assemble themselves together for holding of Councils, Conventions, or Assemblies, to Treat, Consult, or Determinate in any matter of Estate, Civil, or Eccle<g ref="char:EOLhyphen"/>siastick, (except in the ordinary Judicatories) without His Majesties special Command and expresse Licence had and obtained to that effect. As also, that none of them of whatsoever Function, Degree or Quality, presume, nor take upon hand, privatly, or publictly, in Sermons, Preachings, Declamations, Speeches, or otherwise, by Word or Writ, to Utter, Devise, or Vent any purpose of Reproach or Slander against His Majesties Person, Estate, or Go<g ref="char:EOLhyphen"/>vernment, His Parents, or Progenitors, or to deprave His Laws and Acts of Parliament, or misconstrue His Proceedings, whereby any misliking may be moved betwixt His Majesty and His Nobility, and Loving Subjects, or to medle in the Affairs of His Majesty and His Estate, present, bygone, and in time coming; Or to own, abate, or assist the foresaid <hi>Remonstrance,</hi> With Certification, they shall be proceeded against, conform to the Te<g ref="char:EOLhyphen"/>nors of the saids respective Acts of Parliament. Likeas, The said Committee of Estates Declares, that any person or persons, who hears any such Leising, Calumnie, or Slanderous Speech, or shall see or have any such Pasquils, or Writs as aforesaid, and reveals not the same to His Majesty, or one of the said Committee, or to the Sheriff, Steward, or Bailie of the Shire, Stewards in Regality, or Royalty, or to the Provest, or one of the Bailies within Burgh, as with best conveniency he may; be whom the same may come to the knowledge of His Majesty His Parliament, the said Committee of Estates, or His Majesties Privie Council, by whom the saids Leising-makers and Authors of such slanderous Speeches may be called, tryed, and pu<g ref="char:EOLhyphen"/>nished according to the saids Acts, In that case they shall incurre the like Censure or punishment as the principall party offender. And the said Com<g ref="char:EOLhyphen"/>mittee of Estates, considering that His Majesties Leidges are subject more easily to be ensnared and entised to any such Seditious or Treasonable Courses and Practices by Ministers in their Sermons, Prayers, Declamations, and private Discourses: The said Committee do Declare, that upon Information given to them of any thing uttered or spoken contrary to the Tenor of the preceeding Act, the same being lawfully proven in presence of the said Com<g ref="char:EOLhyphen"/>mittee, or Parliament, or His Majesties Privy Council, They summarily will Sequestrate their whole Stipend, and Imprison their person, untill His Maje<g ref="char:EOLhyphen"/>stie, Parliament, or Committee of Estates, or any other Judge competent shall proceed to the finall cognition and Sentencing of their said Crime or Crimes. And to the effect, that this Act and Ordinance may come to the knowledge of all His Majesties Leidges, Ordains Publication to be made thereof, at the Mercat Crosse of <hi>Edinburgh,</hi> and at the Mercat Crosses of the Heid Burghs of the Shires; And Ordains the Magistrates of the several Heid Burghs to send so many of the saids Proclamations to each Collector of the Assessment of every Shire, requiring the said Collector to send the same to the several Paroches, that the foresaid Proclamation may be Read after Sermon, and Affixt upon the Kirk-doors of each Paroch, and upon the Mercat Crosse of each Heid Burgh. Extracted forth of the Books of the said Committee, be me</p>
+            <closer>
+               <signed>
+                  <hi>JO. HAY</hi> Cler. Com.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>EDINBƲRGH</hi> by a Society of <hi>Stationers,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
